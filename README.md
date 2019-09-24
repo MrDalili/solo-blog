@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [solo博客系统，你值得拥有！](https://www.ningdali.com/articles/2019/09/23/1569248807617.html)
 * [IDEA中好用的插件](https://www.ningdali.com/articles/2019/09/23/1569247525281.html)
 * [学习之十步学习法](https://www.ningdali.com/articles/2019/06/25/1569247523323.html)
 * [window配置远程linux主机ssh密钥](https://www.ningdali.com/articles/2019/06/16/1569242947881.html)
