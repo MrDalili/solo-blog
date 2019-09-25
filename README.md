@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [在已经有vs的条件下配置CL的环境](https://www.ningdali.com/articles/2019/09/24/1569336839527.html)
 * [solo博客系统，你值得拥有！](https://www.ningdali.com/articles/2019/09/23/1569248807617.html)
 * [IDEA中好用的插件](https://www.ningdali.com/articles/2019/09/23/1569247525281.html)
 * [学习之十步学习法](https://www.ningdali.com/articles/2019/06/25/1569247523323.html)
