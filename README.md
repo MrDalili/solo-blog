@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [CL配置出了VS以外的编译器](https://www.ningdali.com/articles/2019/09/27/1569587759805.html)
 * [在已经有vs的条件下配置CL的环境](https://www.ningdali.com/articles/2019/09/24/1569336839527.html)
 * [solo博客系统，你值得拥有！](https://www.ningdali.com/articles/2019/09/23/1569248807617.html)
 * [IDEA中好用的插件](https://www.ningdali.com/articles/2019/09/23/1569247525281.html)
