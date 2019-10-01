@@ -10,6 +10,8 @@
 
 ### 最新
 
+* [QT学习入门（二）——初识QT](https://www.ningdali.com/articles/2019/10/01/1569895003994.html)
+* [QT学习入门（一）——常用快捷键以及命名规范](https://www.ningdali.com/articles/2019/10/01/1569892632917.html)
 * [CL配置出了VS以外的编译器](https://www.ningdali.com/articles/2019/09/27/1569587759805.html)
 * [在已经有vs的条件下配置CL的环境](https://www.ningdali.com/articles/2019/09/24/1569336839527.html)
 * [solo博客系统，你值得拥有！](https://www.ningdali.com/articles/2019/09/23/1569248807617.html)
